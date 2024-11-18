@@ -37,7 +37,7 @@ export default[
                 value:'✔️ Practice Question'
             },
             {
-                value:'✔️ Tubeguruji.Com Exlcusive App Access'
+                value:'✔️ infotactsolution.tech Exlcusive App Access'
             },
             {
                 value:'✔️ Email Support'
