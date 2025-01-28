@@ -30,7 +30,7 @@ export default function Hero() {
               <CardContent className="pt-6">
                 <p className="text-gray-700">
                   Join us for an exclusive workshop tailored to equip participants with a deep understanding of Data
-                  Science and AI. We'll emphasize advanced concepts, tools, and impactful real-world applications.
+                  Science and AI. We'll emphasize advanced concepts, tools, and impactful real-world applications.s
                 </p>
               </CardContent>
             </Card>
